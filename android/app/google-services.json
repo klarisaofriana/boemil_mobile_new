@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073555680675",
+    "project_id": "boemil-562bf",
+    "storage_bucket": "boemil-562bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073555680675:android:21599b41146a7f7c6bfe16",
+        "android_client_info": {
+          "package_name": "com.example.boemil_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGnfG89_WgW8Eiehyrb-xD-6q2LjfUr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073555680675:android:ad6d9c9cea7cfbc76bfe16",
+        "android_client_info": {
+          "package_name": "com.example.boemil_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGnfG89_WgW8Eiehyrb-xD-6q2LjfUr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

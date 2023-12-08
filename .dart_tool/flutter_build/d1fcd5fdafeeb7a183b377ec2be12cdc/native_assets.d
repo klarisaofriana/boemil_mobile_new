@@ -1,0 +1,1 @@
+ E:\\boemil05\\boemil_mobile\\.dart_tool\\flutter_build\\d1fcd5fdafeeb7a183b377ec2be12cdc\\native_assets.yaml: 
